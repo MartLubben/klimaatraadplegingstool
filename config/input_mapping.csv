@@ -1,7 +1,7 @@
 KR_input_key,KR_input_value,slider_0_name,slider_0_value,slider_1_name,slider_1_value,slider_2_name,slider_2_value,slider_3_name,slider_3_value
 0,1,capacity_of_energy_power_nuclear_gen3_uranium_oxide,9000,,,,,,#nog_aanpassen
 1,1,capacity_of_energy_power_nuclear_gen3_uranium_oxide,9000,,,,,,#nog_aanpassen
-2,1,capacity_of_energy_hydrogen_steam_methane_reformer,13000,,,,,,
+2,1,capacity_of_energy_hydrogen_steam_methane_reformer,13000,share_of_energy_hydrogen_steam_methane_reformer_ccs,100,,,,
 3,1,capacity_of_energy_hydrogen_wind_turbine_offshore,30000,,,,,,
 4,1,capacity_of_energy_power_nuclear_gen3_uranium_oxide,9000,,,,,,
 5,0,capacity_of_energy_power_nuclear_small_modular_reactor_uranium_oxide,0,,,,,,
