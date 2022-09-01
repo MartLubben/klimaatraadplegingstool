@@ -28,3 +28,4 @@ agriculture_useful_demand_useable_heat,0.3,0,-0.3
 other_useful_demand_electricity,0.3,0,-0.3
 other_useful_demand_useable_heat,0.3,0,-0.3
 other_useful_demand_non_energetic,0.3,0,-0.3
+electricity_interconnector_1_export_availability,0,0,0
